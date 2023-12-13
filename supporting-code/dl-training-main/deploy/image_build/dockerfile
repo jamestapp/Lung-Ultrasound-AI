@@ -1,0 +1,26 @@
+ARG DEBIAN_FRONTEND=noninteractive
+
+FROM pytorch/pytorch:1.9.0-cuda11.1-cudnn8-runtime
+
+
+RUN apt-get update && apt-get install -y \
+	python3-pip \
+	build-essential \
+	curl \
+        && rm -rf /var/lib/apt/lists/*
+
+# Ensure that pip is updated
+RUN pip3 --no-cache-dir install --upgrade pip setuptools
+
+# Install packages from requirements.txt
+ADD deploy/image_build/requirements.txt .
+RUN pip3 --no-cache-dir install -r requirements.txt
+
+# Copy in source
+ADD source /source
+
+WORKDIR /source
+
+RUN mkdir -p /mnt/Training_Pool/Training
+
+ENTRYPOINT ["python", "-m", "torch.distributed.run"]

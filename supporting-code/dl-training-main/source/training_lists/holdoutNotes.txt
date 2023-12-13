@@ -1,0 +1,7 @@
+-- used in first several runs
+
+segPatient00000
+segPatient00004
+segPatient00006
+segPatient00008
+segPatient00051

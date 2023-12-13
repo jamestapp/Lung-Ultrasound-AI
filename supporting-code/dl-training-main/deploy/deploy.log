@@ -1,0 +1,3564 @@
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230731184503
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230801091703
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230801093507
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230801111900
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: T:\MB_lung_forStudents\segmentation_approved\images
+INFO:root:  mask_dir: T:\MB_lung_forStudents\segmentation_approved\masks
+INFO:root:  train_list: \source\training_lists\training.txt
+INFO:root:  holdout_list: \source\training_lists\holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230801135323
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: T:\MB_lung_forStudents\segmentation_approved\images
+INFO:root:  mask_dir: T:\MB_lung_forStudents\segmentation_approved\masks
+INFO:root:  train_list: \source\training_lists\training.txt
+INFO:root:  holdout_list: \source\training_lists\holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230802111138
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: T:\MB_lung_forStudents\segmentation_approved\images
+INFO:root:  mask_dir: T:\MB_lung_forStudents\segmentation_approved\masks
+INFO:root:  train_list: \source\training_lists\training.txt
+INFO:root:  holdout_list: \source\training_lists\holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230802113354
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: T:\MB_lung_forStudents\segmentation_approved\images
+INFO:root:  mask_dir: T:\MB_lung_forStudents\segmentation_approved\masks
+INFO:root:  train_list: \source\training_lists\training.txt
+INFO:root:  holdout_list: \source\training_lists\holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230802114426
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: T:\MB_lung_forStudents\segmentation_approved\images
+INFO:root:  mask_dir: T:\MB_lung_forStudents\segmentation_approved\masks
+INFO:root:  train_list: \source\training_lists\training.txt
+INFO:root:  holdout_list: \source\training_lists\holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230802122022
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: \mnt\Training_Pool\Training\MB_lung_forStudents\segmentation_approved\images
+INFO:root:  mask_dir: T:\MB_lung_forStudents\segmentation_approved\masks
+INFO:root:  train_list: \source\training_lists\training.txt
+INFO:root:  holdout_list: \source\training_lists\holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230802123729
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: T:\MB_lung_forStudents\segmentation_approved\masks
+INFO:root:  train_list: \source\training_lists\training.txt
+INFO:root:  holdout_list: \source\training_lists\holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230802143309
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230802161301
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230802162909
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230802170303
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230802172656
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230802173358
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230802175718
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230802182344
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230802183157
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230803113614
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230803115446
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230803152837
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230803153139
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230803153837
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230807104321
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230807112849
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230807121904
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230807153721
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230807161559
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230807164823
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230808165515
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230808171235
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230808172141
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230808173058
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230808174436
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230808190329
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230808191526
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230809102617
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230809103240
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230809110758
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230809112252
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230809113340
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230809114243
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230809115502
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230809120817
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230809122822
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230809140506
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230809142433
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230809171924
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230809172739
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230809174300
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230810113106
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230810121008
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 32
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230810122810
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230810135540
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 5
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230810172124
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230811104057
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230811104232
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230811181331
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230811182506
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230811184058
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230811184956
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230811201431
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230811202144
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230811212643
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 16
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230811213525
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 8
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230816113620
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230822111705
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230822122853
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230823114030
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230823114856
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230823120834
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230823160555
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230823161411
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230823162352
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230823163047
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230823165101
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230823170340
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230823171247
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230823172812
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230823175314
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230823195437
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 2
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230824091652
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+ERROR:root:project_name contains non alphanumeric characters, please try again and enter valid jobid
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestappce
+INFO:root:Run ID: jamestappce20230824102857
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestappce
+INFO:root:Run ID: jamestappce20230824105508
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestappce
+INFO:root:Run ID: jamestappce20230824111900
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestappce
+INFO:root:Run ID: jamestappce20230824112812
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestappms
+INFO:root:Run ID: jamestappms20230824120435
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestappiu
+INFO:root:Run ID: jamestappiu20230824121858
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestappms
+INFO:root:Run ID: jamestappms20230825093638
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230825122619
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230825150752
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230825153924
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230825173430
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230828220047
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230829000343
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230829001446
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230830145810
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: my-tag,
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230830151924
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230830154006
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230830160459
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230830164223
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230830165014
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230830171508
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230904005153
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230904005928
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230904011733
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230904012648
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230904230306
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230904233909
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 2
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230904235044
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 2
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230904235826
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230905002748
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230905104216
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230905151620
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230905204026
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230906102956
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230906140545
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230906140623
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230906180405
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230907211759
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230909160305
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230909163551
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230909170516
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230910143101
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230911095208
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230911100924
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230911103746
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230911105448
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230911110801
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230911112011
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230911113133
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230911114310
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230911114535
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230911115957
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230911120655
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230911142929
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230911145407
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230911181804
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230911181938
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230912095658
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230912105406
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: cgm
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230917222041
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230917222410
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230917222854
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230917223759
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230917225829
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230917230017
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230917230422
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230917230613
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230918102354
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230918193833
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230918202909
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230918203215
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230919092133
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230919114741
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230919135654
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230919142620
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230919152052
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230919195123
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 2
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230919205201
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 2
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230919213907
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 2
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230919220036
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230920141521
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230920160738
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230920192017
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230920223717
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230920224131
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230920225456
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230920231244
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230920231857
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230921172220
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230922175530
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230922184949
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230922185724
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230922191009
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230922191534
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230922191944
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230922194717
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230922195151
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230922195829
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230922200137
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230924114504
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230924121530
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230924122037
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230924174139
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230924174610
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230924194444
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230924204116
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230925131617
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230925132120
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230925150953
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230925152511
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230926100225
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230926100335
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230926100625
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230926100705
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230926101032
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230926101648
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230926192500
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230926192625
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230926192742
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230926192843
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230927173237
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230927173629
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230928095059
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230928095411
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230928095808
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230928100140
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230928100424
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230928154241
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 2
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230928155843
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 2
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230928160145
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 2
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230928160440
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230929090504
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230929090739
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20230929184711
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20231005195349
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20231005195424
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20231005200153
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 2
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20231005201144
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20231005201205
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 1
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20231006113947
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20231006121230
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster
+INFO:root:mode: internal_cluster
+INFO:root:build_only: False
+INFO:root:project_name: jamestapp
+INFO:root:Run ID: jamestapp20231006140810
+INFO:root:Entrypoint: train.py
+INFO:root:Script args:
+INFO:root:  wandb_tags: deepsup
+INFO:root:  img_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/images
+INFO:root:  mask_dir: /mnt/Training_Pool/Training/MB_lung_forStudents/segmentation_approved/masks
+INFO:root:  train_list: /source/training_lists/training.txt
+INFO:root:  holdout_list: /source/training_lists/holdout.txt
+INFO:root:  batch_size: 4
+INFO:root:  epochs: 25
+INFO:root:Building and pushing docker image
+INFO:root:docker image built and pushed
+INFO:root:deploying on internal cluster

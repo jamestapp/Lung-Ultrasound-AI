@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+    pytorch:
+        build: 
+          dockerfile: deploy/image_build/dockerfile
+          context: ../
+        shm_size: 32gb
+        image: ${PROJECT_NAME}
+        volumes:
+          - /mnt/Training_Pool/Training:/mnt/Training_Pool/Training
+        runtime: nvidia
+
+
+
+
+
+
+
+
